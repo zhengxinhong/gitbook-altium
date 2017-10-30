@@ -1,6 +1,7 @@
 # Altium Designer 17
 [http://blog.csdn.net/springlustre/article/details/52950504](http://blog.csdn.net/springlustre/article/details/52950504)
 
+##设计流程介绍
 ### 创建工程 --> 绘制原理图 --> 编译原理图 --> 原理图映射到PCB --> 布线
 --------------
 
