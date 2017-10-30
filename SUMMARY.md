@@ -7,4 +7,6 @@
 * 2.原理图
 * [3.PCB](3pcb.md)
   * [3.1PCB布局](3.PCB布局/3.1PCB布局.md)
+* 第一章 Altium软件介绍和安装
+  * [1.1Altium软件的介绍](第一章 Altium软件介绍和安装/1.1Altium软件的介绍.md)
 
