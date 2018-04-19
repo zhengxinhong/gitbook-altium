@@ -47,5 +47,5 @@
 
 * 移动器件：Edit\Move\Drag菜单功能，按住CTRL再点击需要移动的元件。
 
-
+* 隐藏覆铜:工具(T) --> 多边形填充(G) --> shelve X polygon
 
