@@ -49,3 +49,4 @@
 
 * 隐藏覆铜:工具(T) --> 多边形填充(G) --> shelve X polygon
 
+* 走线切换： shift + contr + M
